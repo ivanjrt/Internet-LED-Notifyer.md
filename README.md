@@ -6,3 +6,27 @@ MicroCenter:
 
 setup Init: https://www.youtube.com/watch?v=tF85BpXs5nA&t=1s
 Ref https://www.youtube.com/watch?v=iL_oZGHLHvU
+
+
+
+# Once loaded the OS. SFTP and SSH access should be Enabled.
+- this takes about 10 minutes for the first time, then from there it takes about 5.
+```bash
+sudo apt update
+sudo apt install python3-gpiozero
+sudo apt-get install python3-pip -y
+sudo apt install python-gpiozero-doc -y
+sudo apt install screenfetch btop -y
+```
+
+* Install screenfetch and add it at startup.
+```
+sudo apt install screenfetch -y
+```
+
+* To have it run at startup
+```nano  ~/.bashrc```
+add this line at the end of the file:
+```
+screenfetch
+```
