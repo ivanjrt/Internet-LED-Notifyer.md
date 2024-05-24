@@ -19,7 +19,7 @@ requirements:
 # Flashing the Drive:
 Download the RPI Manager: https://www.raspberrypi.com/software/ <br/>
 * Settings (Change Accordingly): <br/>
-![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/5e5be6d5-4b3b-43ad-a12d-f4fa7821d2e5) <br/>
+![image](https://github.com/ivanjrt/Internet-LED-Notifyer.md/assets/44326428/7c50a3bb-390f-4ad1-9aa0-c885c747e2ce) <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/ec797201-99e4-40d4-bbde-f4d2c4dc570b) <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/6bb9f723-d86e-4cc1-a1f3-f77ddd04236e) <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/0f972ad8-c3f4-4fad-a941-69bfc623adab) <br/>
