@@ -1,7 +1,6 @@
 # Goal of this: To create a device that will sense online Activitity from the Internet and Locally.
-unconsciously maybe I was inspired by the ITCROWD. and their Internet box 🤣
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/c86fe691-88b7-4fea-aece-5fec74d5a95d)
-
+unconsciously maybe I was inspired by the IT CROWD and their Internet box 🤣
 
 # Internet-LED-Sensor.md
 requirements:
