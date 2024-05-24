@@ -12,6 +12,7 @@ requirements:
 - Soldering Wire
 - Soldering Iron
 - Power Drill
+- Few M3 Screws from different sizes to hold it in place
 - 3D Printer, or print online the model that goes accordingly: [https://www.thingiverse.com/thing:2407893](url) <br/>
 
 # Flashing the Drive:
