@@ -56,5 +56,9 @@ Add the context, then run the file with this.  <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/363f0e74-7d56-4a4f-ae96-8383e0d529eb)  <br/>
 Now this saves me trips to the Router or Modem, and I have it powered by a small power bank since this is a such low voltage.
 
-
-
+what else can I use it for, hmm: <br/>
+- technically, People that do not how to read the LEDs on a switch + Modem
+- Monitor my own site(s). (after all you have many combination of colors)
+- it could be mobile too, as long as I can Add a VPN
+- I can automate it so it starts as a service, and completely  Automated
+- notification for new products if I was to add a scraper..... list can go on an on.
