@@ -24,14 +24,14 @@ def refresh_log_file_if_needed():
         file_creation_time = datetime.fromtimestamp(os.path.getctime(log_file))
         if datetime.now() - file_creation_time > timedelta(days=5):
             os.remove(log_file)
-            open(log_file, 'w').close()  # Create a new empty file
+            open(log_file, 'w').close()
     else:
-        open(log_file, 'w').close()  # Create a new empty file if it doesn't exist
+        open(log_file, 'w').close() 
 
 
 def check_servers():
-    external_server = "www.google.com"
-    internal_server = "192.168.1.1"
+    external_server = "www.google.com" # Change this Accordingly
+    internal_server = "192.168.1.1" # Change this Accordingly
     ddnsExternal    = None
     internalGW      = None
 
