@@ -38,7 +38,7 @@ sudo apt install python-gpiozero-doc -y
 # Soldering
 From what I used two GPIO `17` & `27`, plust two Grounds. (See below): <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/7be1066a-0efe-44da-abf9-d2c86cd07c0a) <br/>
-This is a Diaggram on how this needs to be sordered: <br/>
+This is a sample Diagram on how this needs to be soldered: <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/b12d7cb5-e7d1-4883-9fb1-56256db360a4) <br/>
 https://gpiozero.readthedocs.io/en/latest/recipes.html#led-with-variable-brightness  <br/>
 
@@ -52,9 +52,9 @@ In this same repo, I'm sharing the python file, where you need to make changes t
 Add the context, then run the file with this.  <br/>
 ```python3 main.py```  <br/>
 
-# Et Voila! Final Produt.
+# Et Voila! Final Produt. 😎
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/363f0e74-7d56-4a4f-ae96-8383e0d529eb)  <br/>
-
+Now this saves me trips to the Router or Modem, and I have it powered by a small power bank since this is a such low voltage.
 
 
 
