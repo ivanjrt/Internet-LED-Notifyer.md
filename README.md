@@ -6,6 +6,7 @@ unconsciously maybe I was inspired by the IT CROWD and their Internet box 🤣 <
 requirements:
 - Tea 🍵
 - raspberry pi zero w, with its power adapter and cable
+- MicroSD card 64GB (_Just to be Comfy for future updates_)
 - 2x Resistors, 220 OHM
 - 1x Green LED
 - 1X Red LED
