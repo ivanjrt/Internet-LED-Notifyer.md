@@ -43,5 +43,15 @@ This is a Diaggram on how this needs to be sordered: <br/>
 https://gpiozero.readthedocs.io/en/latest/recipes.html#led-with-variable-brightness
 
 # Triggering point.
-Back in SH, create a script
+Make sure you have `pip` Installed otherwise: 
+```bash
+sudo apt-get install python3-pip
+```
+In this same repo, I'm sharing the python file, where you need to make changes to your Internal and External host to ping acccoringly.
+`nano main.py` , `CTRL + X`  ,  to save the file
+Add the context, then run the file with this.
+```python3 main.py```
+
+
+
 
