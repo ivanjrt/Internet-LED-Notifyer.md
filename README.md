@@ -52,7 +52,8 @@ sudo apt upgrade -y
 
 # Upgrading the FIRMWARE (Optional)
 ```
-sudo apt install --reinstall raspi-firmware
+sudo rpi-update
+sudo reboot
 ```
 
 
