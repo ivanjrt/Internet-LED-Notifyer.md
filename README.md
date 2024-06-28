@@ -39,6 +39,17 @@ sudo apt-get install python3-pip -y
 sudo apt install python-gpiozero-doc -y
 ```
 
+# Potential Error when doing update: "apt-key deprecation warning when updating system: "Key is stored in legacy trusted.gpg keyring""
+then do this:
+```
+cd /etc/apt
+sudo cp trusted.gpg trusted.gpg.d
+```
+then
+```
+sudo apt upgrade -y
+```
+
 # Soldering
 From what I used two GPIO `17` & `27`, plust two Grounds. (See below): <br/>
 ![image](https://github.com/ivanjrt/Internet-LED-Sensor.md/assets/44326428/7be1066a-0efe-44da-abf9-d2c86cd07c0a) <br/>
